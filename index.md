@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Artificial Intelligence 
 
-[Greedy Dwarf](/sample_page)
+[Pacman](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,17 +12,27 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pacman](http://example.com/)
+
+### Software Engineering
+
+[Greedy Dwarf](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+[Face 5 Report](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Research
 
 [Early Research Scholars Program – “Automatic Detection of Dementia”](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Individual Projects
 
 - [Greedy Dwarf](http://example.com/)
 - [Sudoku](http://example.com/)
