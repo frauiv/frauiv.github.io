@@ -17,8 +17,7 @@
 
 ---
 
-[Early Research Scholars Program – “Automatic Detection of Dementia” – Using Natural 
-Language Processing](http://example.com/)
+[Early Research Scholars Program – “Automatic Detection of Dementia”](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -28,8 +27,7 @@ Language Processing](http://example.com/)
 - [Greedy Dwarf](http://example.com/)
 - [Sudoku](http://example.com/)
 - [Pacman](http://example.com/)
-- [Early Research Scholars Program – “Automatic Detection of Dementia” – Using Natural 
-Language Processing](http://example.com/)
+- [Early Research Scholars Program – “Automatic Detection of Dementia”](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
