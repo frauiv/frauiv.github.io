@@ -1,9 +1,15 @@
 title: Ivana Pavlovic # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Education:
+  Bachelor of Science in Computer Science
+  Expected: December, 2021
+  GPA: 3.24/4.00
+  University of Illinois at Chicago (UIC)
   <br><br>
-  Second description 
+  Skills:
+  Programming languages: C/C++, Python, Java, Arduino, F#, SQL, Rust
+  Languages: Fluent in Serbian, intermediate level in German
   <br><br>
   <a href="https://www.linkedin.com/in/ivana-pavlovic24/">View My LinkedIn Profile</a> 
   
