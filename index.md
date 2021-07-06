@@ -9,7 +9,7 @@
 - [Pacman with reinforcement learning](https://github.com/frauiv/ReinforcementLearning)
 
 ---
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sudoku.jpg?raw=true"/>
 - [Sudoku](https://github.com/frauiv/sudoku)
 
 ---
@@ -17,7 +17,7 @@
 ### Software Engineering
 
 <img src="images/greedydwarf.jpg?raw=true"/>
-- [Greedy Dwarf](/sample_page)
+- [Greedy Dwarf](https://github.com/frauiv/GreedyDwarf)
 
 ---
 
@@ -29,17 +29,11 @@
 ### Research
 
 <img src="images/poster.png?raw=true"/>
-- [Early Research Scholars Program – “Automatic Detection of Dementia”](https://github.com/frauiv/AutomaticDetectionOfDementiaResearch)
+- [Early Research Scholars Program – “Automatic Detection of Dementia”](/sample_page)
 
 ---
 
 ### Individual Projects
-
-- [Greedy Dwarf](http://example.com/)
-- [Sudoku](http://example.com/)
-- [Pacman](https://github.com/frauiv/pacman)
-- [Early Research Scholars Program – “Automatic Detection of Dementia”](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
