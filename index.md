@@ -29,7 +29,7 @@
 ### Research
 
 [Early Research Scholars Program – “Automatic Detection of Dementia”](https://github.com/frauiv/AutomaticDetectionOfDementiaResearch)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/poster.png?raw=true"/>
 
 ---
 
