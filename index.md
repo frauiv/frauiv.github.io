@@ -16,7 +16,7 @@
 
 ### Software Engineering
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/greedydwarf.jpg?raw=true"/>
 [Greedy Dwarf](/sample_page)
 
 ---
