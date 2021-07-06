@@ -10,26 +10,26 @@
 
 ---
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[Sudoku](https://github.com/frauiv/sudoku)
+- [Sudoku](https://github.com/frauiv/sudoku)
 
 ---
 
 ### Software Engineering
 
 <img src="images/greedydwarf.jpg?raw=true"/>
-[Greedy Dwarf](/sample_page)
+- [Greedy Dwarf](/sample_page)
 
 ---
 
 <img src="images/face5.jpg?raw=true"/>
-[Face 5 Report](https://github.com/frauiv/Face5)
+- [Face 5 Report](https://github.com/frauiv/Face5)
 
 ---
 
 ### Research
 
 <img src="images/poster.png?raw=true"/>
-[Early Research Scholars Program – “Automatic Detection of Dementia”](https://github.com/frauiv/AutomaticDetectionOfDementiaResearch)
+- [Early Research Scholars Program – “Automatic Detection of Dementia”](https://github.com/frauiv/AutomaticDetectionOfDementiaResearch)
 
 ---
 
