@@ -4,11 +4,12 @@
 
 ### Artificial Intelligence 
 
-[Pacman](http://example.com/)
+[Pacman](https://github.com/frauiv/pacman)
+[Pacman with reinforcement learning](https://github.com/frauiv/ReinforcementLearning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sudoku](/pdf/sample_presentation.pdf)
+[Sudoku](https://github.com/frauiv/sudoku)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -36,7 +37,7 @@
 
 - [Greedy Dwarf](http://example.com/)
 - [Sudoku](http://example.com/)
-- [Pacman](http://example.com/)
+- [Pacman](https://github.com/frauiv/pacman)
 - [Early Research Scholars Program – “Automatic Detection of Dementia”](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
