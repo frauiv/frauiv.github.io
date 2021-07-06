@@ -6,7 +6,7 @@
 
 [Pacman](https://github.com/frauiv/pacman)
 [Pacman with reinforcement learning](https://github.com/frauiv/ReinforcementLearning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pacman.jpg?raw=true"/>
 
 ---
 [Sudoku](https://github.com/frauiv/sudoku)
