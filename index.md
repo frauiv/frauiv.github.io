@@ -4,32 +4,32 @@
 
 ### Artificial Intelligence 
 
-[Pacman](https://github.com/frauiv/pacman)
-[Pacman with reinforcement learning](https://github.com/frauiv/ReinforcementLearning)
 <img src="images/pacman.jpg?raw=true"/>
+- [Pacman](https://github.com/frauiv/pacman)
+- [Pacman with reinforcement learning](https://github.com/frauiv/ReinforcementLearning)
 
 ---
-[Sudoku](https://github.com/frauiv/sudoku)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sudoku](https://github.com/frauiv/sudoku)
 
 ---
 
 ### Software Engineering
 
-[Greedy Dwarf](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Greedy Dwarf](/sample_page)
 
 ---
 
-[Face 5 Report](https://github.com/frauiv/Face5)
 <img src="images/face5.jpg?raw=true"/>
+[Face 5 Report](https://github.com/frauiv/Face5)
 
 ---
 
 ### Research
 
-[Early Research Scholars Program – “Automatic Detection of Dementia”](https://github.com/frauiv/AutomaticDetectionOfDementiaResearch)
 <img src="images/poster.png?raw=true"/>
+[Early Research Scholars Program – “Automatic Detection of Dementia”](https://github.com/frauiv/AutomaticDetectionOfDementiaResearch)
 
 ---
 
