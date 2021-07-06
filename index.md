@@ -22,7 +22,7 @@
 ---
 
 [Face 5 Report](https://github.com/frauiv/Face5)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/face5.jpg?raw=true"/>
 
 ---
 
