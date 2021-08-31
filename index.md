@@ -5,23 +5,23 @@
 ### Artificial Intelligence 
 
 [Pacman](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pacman.jpg?raw=true"/>
 
 ---
 [Sudoku](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sudoku.jpg?raw=true"/>
 
 ---
 
 ### Software Engineering
 
 [Greedy Dwarf](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/greedydwarf.jpg?raw=true"/>
 
 ---
 
 [Face 5 Report](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/face5.jpg?raw=true"/>
 
 ---
 
