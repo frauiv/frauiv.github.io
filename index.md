@@ -29,7 +29,7 @@
 ### Research
 
 <img src="images/poster.png?raw=true"/>
-- [Early Research Scholars Program – “Automatic Detection of Dementia”]
+- Early Research Scholars Program – “Automatic Detection of Dementia”
 
 ---
 
