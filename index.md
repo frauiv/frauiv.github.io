@@ -27,7 +27,7 @@
 
 ### Research
 
-[Early Research Scholars Program – “Automatic Detection of Dementia”](http://example.com/)
+[Early Research Scholars Program – “Automatic Detection of Dementia”]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
