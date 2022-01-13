@@ -2,6 +2,18 @@
 
 ---
 
+### Munchkin Care 
+
+<img src="images/munchkin_care.jpeg?raw=true"/>
+- [Munchkin Care Git Code](https://github.com/CS-422-FA21/Munchkin-Care)
+- [Munchkin Care Website](https://cs-422-fa21.github.io/Munchkin-Care/)
+
+---
+<img src="images/sudoku.jpg?raw=true"/>
+- [Sudoku](https://github.com/frauiv/sudoku)
+
+---
+
 ### Artificial Intelligence 
 
 <img src="images/pacman.jpg?raw=true"/>
