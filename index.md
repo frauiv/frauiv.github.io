@@ -9,10 +9,6 @@
 - [Munchkin Care Website](https://cs-422-fa21.github.io/Munchkin-Care/)
 
 ---
-<img src="images/sudoku.jpg?raw=true"/>
-- [Sudoku](https://github.com/frauiv/sudoku)
-
----
 
 ### Artificial Intelligence 
 
