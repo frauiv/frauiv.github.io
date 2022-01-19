@@ -2,7 +2,7 @@
 
 ---
 
-### Munchkin Care 
+### User Interface 
 
 <img src="images/munchkin_care.jpeg?raw=true"/>
 - [Munchkin Care Git Code](https://github.com/CS-422-FA21/Munchkin-Care)
